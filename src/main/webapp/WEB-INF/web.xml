@@ -59,6 +59,7 @@
 		<description></description>
 		<url-pattern>/addBook.jsp</url-pattern>
 		<url-pattern>/editBook.jsp</url-pattern>
+		<url-pattern>/editBook.jsp</url-pattern>
 	</web-resource-collection>
   
 </web-app>
